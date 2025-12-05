@@ -19,7 +19,7 @@ Análisis del desempeño de campañas de marketing usando el dataset `marketing_
 - `report.md` - reporte del proyecto.
 
 ## Requisitos
-- Power BI Desktop (para abrir `dashboard/marketing.pbix`)
+- Power BI Desktop (para abrir `PowerBi/marketing.pbix`)
 - Python 3.8+ (recomiendo usar un virtualenv)
 - Python packages: pandas, numpy
 - MySQL o MariaDB (opcional) si quieres ejecutar `sql/MARKETING.sql`
