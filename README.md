@@ -1,11 +1,15 @@
-# proyecto_marketing_repo
 # Proyecto: Marketing Campaign Analysis
 
 **Autor:** Abraham Moisés González Contreras  
 **Rol:** Analista de Datos (Junior)
+**Tools:** Power BI · SQL · Excel  
 
 ## Descripción
+Este proyecto analiza el desempeño de diversas campañas de marketing digital ejecutadas a lo largo de 2021.  
+El objetivo es identificar **qué canales, segmentos, audiencias y tipos de campaña generan mejores resultados**, basándose en métricas clave como CTR, ROI, engagement, impresiones y costos
 Análisis del desempeño de campañas de marketing usando el dataset `marketing_campaign_dataset.csv`. Incluye limpieza de datos, cálculo de KPIs (CTR, CPC, ROI), vistas SQL y visualizaciones en Power BI.
+.
+
 
 ## Estructura del repositorio
 - `/data` - dataset original.
