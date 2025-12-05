@@ -13,8 +13,7 @@ Análisis del desempeño de campañas de marketing usando el dataset `marketing_
 
 ## Estructura del repositorio
 - `/data` - dataset original.
-- `/dashboard` - archivo Power BI (`marketing.pbix`) y capturas.
-- `/scripts` - scripts de limpieza y análisis (Python).
+- `/PowerBi` - archivo Power BI (`marketing.pbix`) y capturas.
 - `/sql` - scripts SQL para crear la base de datos y vistas.
 - `data_dictionary.md` - diccionario de columnas.
 - `report.md` - reporte del proyecto.
@@ -28,9 +27,4 @@ Análisis del desempeño de campañas de marketing usando el dataset `marketing_
 ## Reproducir localmente (pasos)
 1. Clonar o descargar el repo.  
 2. Colocar `marketing_campaign_dataset.csv` en `/data` y `marketing.pbix` en `/dashboard`.  
-3. (Opcional) Crear un virtualenv e instalar dependencias:
-```bash
-python -m venv .venv
-source .venv/bin/activate     # Linux/Mac
-.venv\Scripts\activate        # Windows
-pip install pandas numpy
+
